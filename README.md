@@ -62,6 +62,3 @@ This repository is organized as a research notebook collection. To explore the p
 - The repository currently contains Jupyter notebooks as the primary analysis artifacts.
 - Data files are not included in the repo, so users will need access to the underlying datasets for full reproduction.
 
-## Citation
-
-If you use this research, please cite the underlying concepts from the project on SAR-based yield prediction, hierarchical uncertainty modeling, and yield zone classification.
